@@ -1,0 +1,19 @@
+# === Backend ===
+/backend/node_modules/
+backend/.env
+/backend/.vscode/
+backend/*.log
+
+# === Frontend ===
+/frontend/node_modules/
+/frontend/dist/
+/frontend/build/
+frontend/.env
+/frontend/.vscode/
+frontend/*.log
+
+# === Common Exclusions ===
+# *.mp4
+.DS_Store
+Thumbs.db
+logs/
