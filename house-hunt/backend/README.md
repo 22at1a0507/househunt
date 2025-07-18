@@ -22,4 +22,4 @@ This folder contains the backend code for the HouseHunt project.
    npm run dev
    ```
 
-The backend runs on port 3000 by default. 
+The backend runs on port 5000 by default. 
